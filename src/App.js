@@ -10,7 +10,10 @@ const style2 = {
   backgroundColor: '#FFFFFF',
   padding: 0,
   fontFamily: 'Helvetica',
-  margin: '0 auto',
+  marginTop: 0,
+  marginBottom: 0,
+  marginRight: 'auto',
+  marginLeft: 'auto',
   display: 'block',
   maxWidth: 600,
   clear: 'both'
@@ -18,7 +21,10 @@ const style2 = {
 
 const style3 = {
   fontFamily: 'Helvetica',
-  margin: '0 auto',
+  marginTop: 0,
+  marginBottom: 0,
+  marginRight: 'auto',
+  marginLeft: 'auto',
   padding: 15,
   maxWidth: 600,
   display: 'block'
@@ -78,7 +84,10 @@ const style9 = {
   color: '#FFF',
   textDecoration: 'none',
   backgroundColor: '#7dc855',
-  padding: '10px 16px',
+  paddingTop: 10,
+  paddingBottom: 10,
+  paddingLeft: 16,
+  paddingRight: 16,
   marginRight: 10,
   textAlign: 'center',
   cursor: 'pointer',
